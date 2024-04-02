@@ -39,8 +39,10 @@ Nikhil Varma, a distinguished Senior DevOps Engineer holding a Bachelor's degree
 ---
 [![](https://visitcount.itsvg.in/api?id=nikhilvarma940&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
+<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilvarma940&show_icons=true&locale=en&layout=compact" alt="nikhilvarma940" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhilvarma940&show_icons=true&locale=en" alt="nikhilvarma940" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilvarma940&" alt="nikhilvarma940" /></p>
+-->
